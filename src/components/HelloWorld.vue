@@ -4,7 +4,7 @@
   <h1>sahduiuahsid</h1>
   <h2>Essential Links</h2>
   <h1>sahduiuahsid</h1>
-  <h2>好的认识</h2>
+  <h2>优秀的认识</h2>
   <h1>sahduiuahsid</h1>
     <h2>Essential Links</h2>
     <ul>
